@@ -1,0 +1,15 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\bin\Debug\net6.0\ClassInterfaces.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\bin\Debug\net6.0\ClassInterfaces.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\bin\Debug\net6.0\ClassInterfaces.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\bin\Debug\net6.0\ClassInterfaces.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\bin\Debug\net6.0\ClassInterfaces.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\refint\ClassInterfaces.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ClassInterfaces.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE II\ClassInterfaces\ClassInterfaces_EX1\obj\Debug\net6.0\ref\ClassInterfaces.dll
